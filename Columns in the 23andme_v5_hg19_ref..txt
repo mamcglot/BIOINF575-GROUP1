@@ -1,0 +1,10 @@
+Columns in the 23andme_v5_hg19_ref.txt file are:
+
+CHR: the chromosome number
+
+POS: the position of the variant - position where the difference in nucleotides is found
+
+dbSNP_ID: the variant identifier in the dbSNP database (https://www.ncbi.nlm.nih.gov/snp/) 
+- this field will contain a dot . when the SNP is not available in the dbSNP database
+
+ALLELE: the nucleotides found at that position on the pair of chromosomes
