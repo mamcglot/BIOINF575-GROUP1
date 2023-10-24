@@ -1,0 +1,33 @@
+Guidelines for the project solution
+
+Guidelines for the project solution:
+
+The input and output formats are provided/available for each of the 3 projects.
+
+There is a lot of flexibility in terms of how to get from the input to the output.
+
+Some suggestions are made but are not enforced.
+
+It is good to wait until we learn numpy and pandas to start implementing the project.
+
+Until then try to break the project down into functions/tasks for each team member.
+
+Define the input and output for each tasks so that team members can work independently. 
+
+You can create your own small test data for your task and make sure it works as expected.
+
+When all tasks are done put them together and run them on the input data for the project.
+
+Do not repeat code, use functions and other control structures if possible.
+
+Do not hard-code (provide input data in the code).
+
+Try to avoid hard-coding by using variables to store the data (such as file names) and then use the variables in the code that follows.
+
+This is specifically important for functions and function parameters.
+
+Try to simplify your solution, do not use convoluted code.
+
+Less code means less chance for errors, so simplify.
+
+Use existing functionality when available, don't reinvent the wheel.
